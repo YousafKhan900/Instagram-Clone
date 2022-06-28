@@ -17,4 +17,3 @@ This app offers:
 - following users functionality.
 - editing user.
 - Search user.
--
